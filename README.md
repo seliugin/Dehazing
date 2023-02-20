@@ -1,6 +1,6 @@
-Remote Sensing RGB Image Dehazing
+# Remote Sensing RGB Image Dehazing
 
-Code and report for my B.Sc. thesis
+## Code and report for my B.Sc. thesis
 
 The development of remote sensing methods makes it possible to use this data to solve the tasks of precision farming.
     However, remote sensing images are often degraded by suspended aerosol in the air. 
